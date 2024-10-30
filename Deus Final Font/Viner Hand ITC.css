@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Viner Hand ITC';
-    src: url('fonts/VINERITC.eot');
-    src: url('fonts/VINERITC.eot?#iefix') format('embedded-opentype'),
-         url('fonts/VINERITC.woff2') format('woff2'),
-         url('fonts/VINERITC.woff') format('woff'),
-         url('fonts/VINERITC.ttf')  format('truetype'),
-         url('fonts/VINERITC.svg#Viner Hand ITC') format('svg');
-}
